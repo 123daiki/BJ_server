@@ -1,0 +1,2 @@
+class BattleMaster < ApplicationRecord
+end

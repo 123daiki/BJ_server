@@ -1,0 +1,2 @@
+class PlayerLevelMaster < ApplicationRecord
+end
